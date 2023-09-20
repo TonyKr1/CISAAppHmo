@@ -1,0 +1,52 @@
+[
+    {
+        "ID": 1,
+        "FKUnidad": 1486,
+        "Unidad": "SIT–0001",
+        "FKOperador": 1,
+        "Credencial": 25,
+        "NombreOperador" : "Pancho",
+        "buscador": "SIT–0001",
+        "fecha" : "2023-08-17"
+    },
+    {
+        "ID": 2,
+        "FKUnidad": 1487,
+        "Unidad": "SIT–0002",
+        "FKOperador": 2,
+        "Credencial": 26,
+        "NombreOperador" : "Pedro",
+        "buscador": "SIT–0002",
+        "fecha" : "2023-08-17"
+    },
+    {
+        "ID": 3,
+        "FKUnidad": 1488,
+        "Unidad": "SIT–0003",
+        "FKOperador": 3,
+        "Credencial": 27,
+        "NombreOperador" : "Ricardo",
+        "buscador": "SIT–0003",
+        "fecha" : "2023-08-17"
+    },
+    {
+        "ID": 4,
+        "FKUnidad": 1489,
+        "Unidad": "SIT–0004",
+        "FKOperador": 4,
+        "Credencial": 28,
+        "NombreOperador" : "Juan Jose",
+        "buscador": "SIT–0004",
+        "fecha" : "2023-08-17"
+    },
+    {
+        "ID": 5,
+        "FKUnidad": 1490,
+        "Unidad": "SIT–0005",
+        "FKOperador": 5,
+        "Credencial": 29,
+        "NombreOperador" : "Alfredo",
+        "buscador": "SIT–0005",
+        "fecha" : "2023-08-17"
+    }
+]
