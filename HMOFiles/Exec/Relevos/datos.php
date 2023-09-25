@@ -4,8 +4,8 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 date_default_timezone_set('America/Hermosillo');
-// $Fecha = date('Y-m-d');
-$Fecha = "2023-09-15";
+$Fecha = date('Y-m-d');
+//$Fecha = "2023-09-15";
 
 require './../../conexion/conexion.php';
 require './../../conexion/conexionAzure.php';
